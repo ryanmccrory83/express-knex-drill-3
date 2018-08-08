@@ -69,4 +69,4 @@ Deploy this API. Note that you'll need to create a remote database, run your mig
 
 * You can test your API locally with `npm test`
 
-Add a link to your [deployed API](https://git.heroku.com/express-knex-drill-3-rm.git) here.
+Add a link to your [deployed API](https://express-knex-drill-3-rm.herokuapp.com/) here.
